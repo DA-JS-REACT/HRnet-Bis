@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/HRnet-Bis/static/css/main.88a0b41a.css",
+    "main.js": "/HRnet-Bis/static/js/main.4937a471.js",
+    "static/js/787.61c1c957.chunk.js": "/HRnet-Bis/static/js/787.61c1c957.chunk.js",
+    "static/media/logo.png": "/HRnet-Bis/static/media/logo.64bde18835acb6432d8c.png",
+    "index.html": "/HRnet-Bis/index.html",
+    "main.88a0b41a.css.map": "/HRnet-Bis/static/css/main.88a0b41a.css.map",
+    "main.4937a471.js.map": "/HRnet-Bis/static/js/main.4937a471.js.map",
+    "787.61c1c957.chunk.js.map": "/HRnet-Bis/static/js/787.61c1c957.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88a0b41a.css",
+    "static/js/main.4937a471.js"
+  ]
+}
