@@ -1,6 +1,6 @@
 import React from 'react'
-import { SelectCustom } from '@/Components/SelectCustom'
-import { departmentField } from '@/Data/data'
+import { SelectCustom } from '../Components/SelectCustom'
+import { departmentField } from '../Data/data'
 
 /**
  * Select for generate list of Department

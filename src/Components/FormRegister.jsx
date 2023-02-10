@@ -1,14 +1,14 @@
 import React from 'react'
 import { Formik, Form } from 'formik'
-import { validationSchema } from '@/_services/validation'
-import { FieldCustom } from '@/Components/FieldCustom'
-import { SelectState } from '@/Components/SelectState'
-import { SelectDepartment } from '@/Components/SelectDepartment'
+import { validationSchema } from '../_services/validation'
+import { FieldCustom } from '../Components/FieldCustom'
+import { SelectState } from '../Components/SelectState'
+import { SelectDepartment } from '../Components/SelectDepartment'
 import { useDispatch } from 'react-redux'
-import { employeesRegister } from '@/_services/employees.action'
-import { MyDatePicker } from '@/Components/MyDatePicker'
+import { employeesRegister } from '../_services/employees.action'
+import { MyDatePicker } from '../Components/MyDatePicker'
 import { Modal, useModal } from '@fredmagione/modals-react-components'
-import { MessageModal } from '@/Components/MessageModal'
+import { MessageModal } from '../Components/MessageModal'
 
 export function FormRegister() {
     const { isShowing, toggle } = useModal()

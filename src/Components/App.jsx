@@ -1,6 +1,6 @@
 import React from 'react'
 import { BrowserRouter } from 'react-router-dom'
-import { Navigation } from '@/Components/Navigation'
+import { Navigation } from '../Components/Navigation'
 
 /**
  * Start App

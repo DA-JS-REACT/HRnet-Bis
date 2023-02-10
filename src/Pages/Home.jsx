@@ -1,6 +1,6 @@
 import React from 'react'
-import { Banner } from '@/Components/Banner'
-import { FormRegister } from '@/Components/FormRegister'
+import { Banner } from '../Components/Banner'
+import { FormRegister } from '../Components/FormRegister'
 
 /**
  * Home Page

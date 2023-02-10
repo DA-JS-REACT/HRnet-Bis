@@ -1,5 +1,5 @@
 import { createSlice } from '@reduxjs/toolkit'
-import { getEmployees, employeesRegister } from '@/_services/employees.action'
+import { getEmployees, employeesRegister } from '../_services/employees.action'
 
 const initialState = {
     loading: true,
